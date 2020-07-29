@@ -34,3 +34,8 @@
   
 + Camera driver
   copy camera.h and .c from standalone1.14
+## Question
++ model init error
+
+  please check model config
+  ![avatar](/home/picture/1.png)
