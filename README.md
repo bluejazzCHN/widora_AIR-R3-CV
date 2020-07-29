@@ -38,4 +38,4 @@
 + model init error
 
   please check model config
-  ![avatar](/home/picture/1.png)
+  ![avatar](/home/kmodel_config.jpg)
