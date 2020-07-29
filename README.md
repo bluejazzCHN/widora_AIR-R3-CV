@@ -38,4 +38,4 @@
 + model init error
 
   please check model config
-  ![avatar](/home/kmodel_config.jpg)
+  ![avatar](https://github.com/bluejazzCHN/widora_AIR-R3_face-detect/blob/master/kmodel_config.jpg)
