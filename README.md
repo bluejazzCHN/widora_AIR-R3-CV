@@ -37,5 +37,13 @@
 ## Question
 + model init error
 
-  please check model config
-  ![avatar](https://github.com/bluejazzCHN/widora_AIR-R3_face-detect/blob/master/kmodel_config.jpg)
+  Model Setting and Action:  ![avatar](https://github.com/bluejazzCHN/widora_AIR-R3_face-detect/blob/master/kmodel_config.jpg)
+  
++ PIN Config
+
+  Camera Pin Setting:  ![avatar](https://github.com/bluejazzCHN/widora_AIR-R3_face-detect/blob/master/DVP_pin_config.jpg)
+  
+  SPI Pin Setting:  ![avatar](https://github.com/bluejazzCHN/widora_AIR-R3_face-detect/blob/master/SPI_pin_config.jpg)
+  
+  HSIO Pin Setting:  ![avatar](https://github.com/bluejazzCHN/widora_AIR-R3_face-detect/blob/master/GPIO_pin_config.jpg)
+
