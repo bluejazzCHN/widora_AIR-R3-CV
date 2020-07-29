@@ -34,7 +34,8 @@
   
 + Camera driver
   copy camera.h and .c from standalone1.14
-## Question
+  
+## Notes
 + model init error
 
   Model Setting and Action:  ![avatar](https://github.com/bluejazzCHN/widora_AIR-R3_face-detect/blob/master/kmodel_config.jpg)
