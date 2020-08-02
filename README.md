@@ -1,4 +1,4 @@
-# widora_AIR-R3_face-detect
+# widora_AIR-R3_Computer Vision
 ## File
 + kendryte_dvp2lcd-standalone1.14.zip 
 
@@ -7,6 +7,7 @@
 + kendryte_face-detect-standalone_airvR3.rar
 
   Modify according to original firmware
++ kendryte_20-classify-detect-standalone_airvR3.rar
   
 ## Modify Contents
 + GPIO mapping
