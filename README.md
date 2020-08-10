@@ -6,13 +6,15 @@
   
 + kendryte_face-detect-standalone_airvR3.rar
 
-face detect for airV R3
-1.download 2. flash kmodel in root folder 3. build and flash to device.
+  face detect for airV R3
+
+  1.download 2. flash kmodel in root folder 3. build and flash to device.
 
 + kendryte_20-classify-detect-standalone_airvR3.rar
 
-20 classify detect for airV R3 code 
-1.download 2. flash kmodel in root folder 3. build and flash to device.
+  20 classify detect for airV R3 code 
+
+  1.download 2. flash kmodel in root folder 3. build and flash to device.
   
 ## Modify Contents
 + GPIO mapping
