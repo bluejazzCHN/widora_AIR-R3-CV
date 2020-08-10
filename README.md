@@ -1,13 +1,18 @@
 # widora_AIR-R3_Computer Vision
 ## File
 + kendryte_dvp2lcd-standalone1.14.zip 
-
-  Factory firmware
+  
+  lcd 1.14 Factory firmware
   
 + kendryte_face-detect-standalone_airvR3.rar
 
-  Modify according to original firmware
+face detect for airV R3
+1.download 2. flash kmodel in root folder 3. build and flash to device.
+
 + kendryte_20-classify-detect-standalone_airvR3.rar
+
+20 classify detect for airV R3 code 
+1.download 2. flash kmodel in root folder 3. build and flash to device.
   
 ## Modify Contents
 + GPIO mapping
